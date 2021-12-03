@@ -1,0 +1,16 @@
+# User config
+author: "Devi Acharya"
+tagline: "Devi's Portfolio"
+description: "I'm Devi Acharya&mdash;a game developer and researcher currently pursuing my Ph.D. in <strong>Computational Media</strong> at the University of California - Santa Cruz. My work focuses on <strong>interactive narrative</strong> and <strong>emergent stories</strong> in games and other forms of interactive media."
+email: "dacharya64@gmail.com"
+linkedin: "https://www.linkedin.com/in/dacharya"
+twitter: "https://twitter.com/dacharya64"
+github: "https://github.com/dacharya64"
+
+# Site config
+baseurl: ""
+url: "http://devi-a.com"
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
