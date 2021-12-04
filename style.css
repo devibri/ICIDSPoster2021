@@ -342,6 +342,10 @@ div label[for=ui-component-toggle__yearly] {
 ul {
   padding-left: 30px;
 }
+
+p img {
+all: initial;
+}
 .ui-component-list {
   grid-template-columns: 1fr;
   row-gap: .75rem;
